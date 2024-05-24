@@ -1,0 +1,1 @@
+export const url=`https://api.slingacademy.com/v1/sample-data/photos?limit=20`;
